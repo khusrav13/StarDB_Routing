@@ -29,7 +29,7 @@ We've formatted this data in JSON and exposed it to you in a RESTish implementat
 
 Let's make our first API request to the Star Wars API!
 
-Open up a terminal and use curl or httpie to make an API request for a resource. In the example below, we're trying to get the first planet, Tatooine:
+Open up a terminal and use curl or http to make an API request for a resource. In the example below, we're trying to get the first planet, Tatooine:
 
 **http swapi.dev/api/planets/1/**
 
